@@ -1,4 +1,8 @@
 vmess://eyJhZGQiOiIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyMTIyMTExMTEyMjIxMTIxMTIxMjEyMTExMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5OGTGFzdCBVcGRhdGXwn5OGXG7ij7AxNDA0LzExLzI34o+wIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#MCI
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#MCI
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#MCI
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com#MCI
 vless://59876d4f-a62d-4712-e8eb-7d5ef8b4bb92@172.64.152.23:443?mode=auto&path=%2F%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&encryption=none&insecure=0&host=owowiwuwy-iwywywgcwvw.maxgh5766.ir&type=xhttp&allowInsecure=0&sni=owowiwuwy-iwywywgcwvw.maxgh5766.ir#MCI
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#MCI
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#MCI
